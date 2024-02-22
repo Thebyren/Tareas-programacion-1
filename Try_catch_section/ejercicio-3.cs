@@ -15,7 +15,7 @@ public class ejercicio_1
     }
     catch (System.Exception ex)
     {
-      Console.WriteLine("usted a ingresado algo diferente a un numero entero");
+      Console.WriteLine("usted a ingresado algo diferente a un numero");
     }
   }
 }
