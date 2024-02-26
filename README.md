@@ -2,7 +2,7 @@
 
 <p style="color:darkorange">
 
-| $${\color{lightblue}No.}$$ | $${\color{lightblue}Nombre}$$      | $${\color{lightblue}links}$$             |
+| No.| Nombre       | links            |
 | --- | ----------- | ---------------- |
 | 1   | Ejercicio 1 | [ejercicio 1](./ejercicio-1.cs) |
 | 2   | Ejercicio 2 | [ejercicio 2](./ejercicio-2.cs) |
