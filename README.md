@@ -1,7 +1,8 @@
 # ejercicios en parejas
 
+<p style="color:darkorange">
 
-| No. | Nombre      | Href             |
+| $${\color{lightblue}No.}$$ | $${\color{lightblue}Nombre}$$      | $${\color{lightblue}links}$$             |
 | --- | ----------- | ---------------- |
 | 1   | Ejercicio 1 | [ejercicio 1](./ejercicio-1.cs) |
 | 2   | Ejercicio 2 | [ejercicio 2](./ejercicio-2.cs) |
@@ -11,3 +12,5 @@
 | 6   | Ejercicio 6 | [ejercicio 6](./ejercicio-6.cs) |
 | 7   | Ejercicio 7 | [ejercicio 7](./ejercicio-7.cs) |
 | 8   | Ejercicio 8 | [ejercicio 8](./ejercicio-8.cs) |
+
+</p>
