@@ -1,6 +1,5 @@
 # ejercicios en parejas
 
-<p style="color:darkorange">
 
 | No.| Nombre       | links            |
 | --- | ----------- | ---------------- |
@@ -12,5 +11,3 @@
 | 6   | Ejercicio 6 | [ejercicio 6](./ejercicio-6.cs) |
 | 7   | Ejercicio 7 | [ejercicio 7](./ejercicio-7.cs) |
 | 8   | Ejercicio 8 | [ejercicio 8](./ejercicio-8.cs) |
-
-</p>
